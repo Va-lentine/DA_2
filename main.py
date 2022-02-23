@@ -2,15 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 import scrapy
 
 class NewSpider(scrapy.Spider):
